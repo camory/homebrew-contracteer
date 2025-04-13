@@ -1,4 +1,4 @@
-# Generated with JReleaser 1.17.0 at 2025-04-13T22:43:05.809102+02:00
+# Generated with JReleaser 1.17.0 at 2025-04-13T22:47:44.820004+02:00
 
 class Contracteer < Formula
   desc "The musketeer of your API contracts."
